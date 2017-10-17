@@ -1,0 +1,184 @@
+.container-fluid{
+    background-color:#4086cb;
+    margin-bottom:100px;
+
+}
+.intern_head{
+    margin-top:10px;
+    margin-bottom:10px;
+}
+.intern_head a{
+    font-size:30px;
+    color:white;
+    margin-left:25px;
+    margin-bottom:10px;
+    
+   /* padding-top:20px;*/
+}
+.intern_head a span{
+    font-weight:600;
+}
+
+.intern_head a:hover{
+    color:white;
+}
+nav ul{
+    text-decoration-style: none;
+    margin-top:20px;
+    font-size:17px;
+    margin-bottom:10px;
+   
+}
+nav ul li{
+    display:inline-block;
+    
+    
+    
+}
+nav ul li a{
+    color:white;
+    margin-right:20px;
+    padding:10px;
+    padding-bottom:20px;
+    font-weight: 600;
+    
+}
+
+nav ul li:last-child a{
+ border: 2px solid white;
+    border-radius: 30px;
+    padding: 5px 16px;   
+}
+nav ul li a:hover{
+    color:white;
+    
+}
+
+.intern_container_fluid{
+    width:100%;
+}
+#block{
+    letter-spacing: 3px;
+}
+
+h1{
+    font-size:35px;
+    margin-bottom:30px;
+}
+h1,h6{
+    font-weight:600;
+    
+}
+h6{
+    font-size:15px;
+    margin-bottom: 50px;
+}
+
+.intern_space a img{
+    margin-bottom: 20px;
+    margin-left:100px;
+    margin-top:80px;
+    width=100%;
+}
+
+.intern_space a img#size{
+    margin-top: 40px;
+    }
+
+.intern_custom{
+    font-size:40px;
+}
+
+.intern_head{
+    font-weight:bold;
+}
+
+.intern_line{
+    margin-bottom:30px;
+}
+
+h2{
+   
+    font-style: italic;
+    font-weight:bold;
+}
+
+.active{
+    margin-top:30px;
+}
+
+.intern_back{
+    background-color:#3c3d41;
+    height:130px;
+    margin-top:30px;
+}
+
+.col-md-6 h5{
+    margin-top:20px;
+    color:white;
+    font-weight:bold;
+    font-size:25px;
+}
+
+.col-md-6 ul li a{
+    color:whitesmoke;
+    text-decoration: none;
+}
+
+
+
+.intern_img{
+    font-size:40px;
+    margin-left:20px;
+    margin-top:40px;
+    color:white;
+}
+
+.intern_twitter:hover{
+    color:deepskyblue;
+}
+
+.intern_facebook:hover{
+    color:royalblue;
+}
+
+.intern_git:hover{
+    color:white;
+}
+
+.btn{
+    margin-top:20px;
+   
+}
+.intern_footer{
+    background-color: #333333;
+    height:30px;
+}
+
+footer{
+    color:white;
+}
+.intern_container{
+    width:100%;
+}
+
+@media (max-width: 750px) { 
+.intern_back{
+    background-color:#3c3d41;
+    height:250px;
+    margin-top:30px;
+}
+    
+    .intern_head a{
+        font-size:25px;
+    }
+} 
+
+@media (min-width: 760px) and (max-width:1000px){
+   .intern_back{
+    background-color:#3c3d41;
+    height:250px;
+    margin-top:30px;
+} 
+    
+} 
